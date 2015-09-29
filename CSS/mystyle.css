@@ -1,0 +1,52 @@
+.header{
+    background-color: hotpink;
+    clear: both;
+    padding-bottom: 20px;
+}
+
+.header u1{
+    padding-top: 10px;
+    float: right;
+}
+.content{
+background-color: greenyellow;
+width: 75%;
+    float: left;
+}
+
+.content img{
+float: left;
+margin: 0 20px;
+}
+
+.description{
+clear: right;
+    padding: 10px 20px 0;
+}
+
+.top-content{
+height: 230px;
+    clear: both;
+}
+
+.aside{
+background-color: yellow;
+clear: right;
+padding-bottom: 377px;
+padding-top: 20px
+    
+}
+
+.footer{
+background-color: skyblue;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    clear: both;
+    
+}
+
+.content{
+-webkit-column-gap: 40px; 
+    -moz-column-gap: 40px; 
+    column-gap: 40px;
+}

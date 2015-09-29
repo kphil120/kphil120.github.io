@@ -1,0 +1,18 @@
+body {
+font-size: 16px;
+line-height: 1.45;
+font-family: "Georgia", serif;
+color: #57e3ff;
+background: black;
+} 
+
+p {
+margin-bottom: 2.0em;
+color: #35ff26;
+}
+
+h1{
+font-size: 50px;
+font-family: "Verdana";
+color: #57e3ff;
+}

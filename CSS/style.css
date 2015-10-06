@@ -1,0 +1,27 @@
+body {
+    color: blue;
+    font-size: 10px;
+    background: #E6ADB7;
+    width: 75%;
+    margin: auto;
+    line-height: 20px;
+}
+
+table, tr, td, th {
+  border:1px solid black;
+}
+
+.bacon-info {
+    color: blue;
+    font-size: 15px ;
+   
+}
+
+.bacon-answer {
+    color: white;
+    font-family: "Times New Roman";
+}
+
+h2{
+font-size: 20px;
+}
